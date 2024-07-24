@@ -1,0 +1,13 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+TESTCASE=                                                   rv32ui-p-xori
+ITCM 0x00: 340510730001aa0d
+ITCM 0x01: ff85051300002517
+ITCM 0x02: 01f5222301e52023
+ITCM 0x03: 040f416334202f73
+ITCM 0x04: 4fa507ff02634fa1
+ITCM 0x05: 0c634fad05ff0f63
+ITCM 0x06: 0bff05634f8505ff
+ITCM 0x07: 4f9d0dff00634f95
+ITCM 0x16: 2f03f52505130000
+ITCM 0x20: 2f8300052f03f065
+Simulation time out! Forced stop ...

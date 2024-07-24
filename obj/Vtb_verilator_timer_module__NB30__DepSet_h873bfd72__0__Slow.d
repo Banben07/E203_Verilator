@@ -1,0 +1,3 @@
+Vtb_verilator_timer_module__NB30__DepSet_h873bfd72__0__Slow.o: \
+ Vtb_verilator_timer_module__NB30__DepSet_h873bfd72__0__Slow.cpp \
+ Vtb_verilator__pch.h Vtb_verilator_timer_module__NB30.h

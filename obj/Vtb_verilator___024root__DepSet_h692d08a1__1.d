@@ -1,0 +1,3 @@
+Vtb_verilator___024root__DepSet_h692d08a1__1.o: \
+ Vtb_verilator___024root__DepSet_h692d08a1__1.cpp Vtb_verilator__pch.h \
+ Vtb_verilator__Syms.h Vtb_verilator___024root.h

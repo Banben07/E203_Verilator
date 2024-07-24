@@ -1,0 +1,3 @@
+Vtb_verilator_apb_spi_master__A20__DepSet_hc4585613__0__Slow.o: \
+ Vtb_verilator_apb_spi_master__A20__DepSet_hc4585613__0__Slow.cpp \
+ Vtb_verilator__pch.h Vtb_verilator_apb_spi_master__A20.h

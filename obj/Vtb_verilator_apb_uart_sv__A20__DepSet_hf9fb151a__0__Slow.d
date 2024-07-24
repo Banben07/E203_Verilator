@@ -1,0 +1,3 @@
+Vtb_verilator_apb_uart_sv__A20__DepSet_hf9fb151a__0__Slow.o: \
+ Vtb_verilator_apb_uart_sv__A20__DepSet_hf9fb151a__0__Slow.cpp \
+ Vtb_verilator__pch.h Vtb_verilator_apb_uart_sv__A20.h

@@ -1,0 +1,3 @@
+Vtb_verilator_sirv_gnrl_icb2apb__D20__DepSet_h720a7c7d__0.o: \
+ Vtb_verilator_sirv_gnrl_icb2apb__D20__DepSet_h720a7c7d__0.cpp \
+ Vtb_verilator__pch.h Vtb_verilator_sirv_gnrl_icb2apb__D20.h
